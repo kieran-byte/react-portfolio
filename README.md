@@ -20,4 +20,9 @@ Launches the test runner in the interactive watch mode.\
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-![Alt text](src\assets\images\AboutPage.PNG?raw=true "Title")
+### pages
+
+![Alt text](AboutPage.PNG "Title")
+
+![Alt text](contactPage.PNG "Title")
+
